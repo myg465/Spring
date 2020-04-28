@@ -11,5 +11,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<a href="ex/list">리스트보기</a>
 </body>
 </html>
